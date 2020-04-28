@@ -1,0 +1,11 @@
+C:\Users\kevin\source\repos\Semana05_Producto\Business\bin\Debug\Business.dll
+C:\Users\kevin\source\repos\Semana05_Producto\Business\bin\Debug\Business.pdb
+C:\Users\kevin\source\repos\Semana05_Producto\Business\bin\Debug\Data.dll
+C:\Users\kevin\source\repos\Semana05_Producto\Business\bin\Debug\Entity.dll
+C:\Users\kevin\source\repos\Semana05_Producto\Business\bin\Debug\Data.pdb
+C:\Users\kevin\source\repos\Semana05_Producto\Business\bin\Debug\Entity.pdb
+C:\Users\kevin\source\repos\Semana05_Producto\Business\obj\Debug\Business.csprojAssemblyReference.cache
+C:\Users\kevin\source\repos\Semana05_Producto\Business\obj\Debug\Business.csproj.CoreCompileInputs.cache
+C:\Users\kevin\source\repos\Semana05_Producto\Business\obj\Debug\Business.csproj.CopyComplete
+C:\Users\kevin\source\repos\Semana05_Producto\Business\obj\Debug\Business.dll
+C:\Users\kevin\source\repos\Semana05_Producto\Business\obj\Debug\Business.pdb
